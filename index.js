@@ -1,0 +1,1 @@
+const ingreso1 = () => ({});
